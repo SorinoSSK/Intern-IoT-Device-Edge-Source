@@ -1,3 +1,7 @@
+# Message
+Hi future interns,  
+This repository is used to store source code of IoT Device using test setup and will be removed after my internship ends. You should look for the current intern for the latest source code.
+
 # Original Author: Naina Gupta
 July'2021 - ModbusTCPLogger v1.0
 ## Contributing Author: Sin Kiat, Saravanan
